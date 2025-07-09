@@ -1,2 +1,2 @@
 # pbel_project
-create a autoai model using watson studio
+create an autoai model using watson studio
