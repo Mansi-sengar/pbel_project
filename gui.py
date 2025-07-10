@@ -84,3 +84,9 @@ for idx, label in enumerate(labels):
 tk.Button(app, text="Predict Winner", command=predict).grid(row=len(labels), columnspan=2, pady=20)
 
 app.mainloop()
+import pickle
+
+def load_model():
+    with open('model.pkl', 'rb') as f:
+        model = pickle.load(f)
+    return model
