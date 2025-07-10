@@ -4,7 +4,7 @@ import requests
 import json
 
 # Replace with your actual API key and endpoint
-API_KEY = "Xe_Q8ZfpuatSGxiICkmGpxYpeCAhspN7m5xjA1GsQ4dO"
+API_KEY = "your_API"
 DEPLOYMENT_URL = "https://au-syd.ml.cloud.ibm.com/ml/v4/deployments/15cf68e8-da86-40cc-95be-5626f522db7c/predictions?version=2021-05-01"
 def get_token():
     response = requests.post(
