@@ -24,10 +24,13 @@ https://au-syd.dai.cloud.ibm.com/ml-runtime/deployments/15cf68e8-da86-40cc-95be-
 
 
 🔍 Model Experience
+
+
 This project uses IBM Watson Studio AutoAI, which provides a fully automated machine learning pipeline builder. The AutoAI experiment was configured with the IPL match dataset (matches_csv_shaped) and set to predict match winners based on input features like team names, venue, toss decision, and other match-specific data.
 
 
 📌Key Highlights:
+
 ✅ Data Ingestion: AutoAI automatically detected data types and handled missing values.
 
 🧠 Feature Engineering: AutoAI generated and evaluated multiple feature transformations (e.g., one-hot encoding, normalization).
