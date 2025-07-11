@@ -5,6 +5,7 @@ In this project i have use the ibm watson studio which make my work easier and a
 
 
 🎯 OBJECTIVE
+
 The objective of this project is to leverage IBM Watson Studio's AutoAI to automatically build, train, and deploy a machine learning model that predicts the outcome of IPL (Indian Premier League) matches. By using AutoAI, this project automates key stages of the ML lifecycle — including data preprocessing, algorithm selection, feature engineering, and hyperparameter tuning — enabling efficient and accurate model development without manual coding.
 
 ⚫️ This solution is designed to:
