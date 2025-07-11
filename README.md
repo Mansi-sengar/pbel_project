@@ -21,7 +21,9 @@ The objective of this project is to leverage IBM Watson Studio's AutoAI to autom
 📌 IPL_MATCH_DEPLOYMENT_LINK
 
 https://au-syd.dai.cloud.ibm.com/ml-runtime/deployments/15cf68e8-da86-40cc-95be-5626f522db7c?space_id=9a5c788c-7ad4-40c7-a0b2-f71a3fcffdfe&context=cpdaas
+public end point:-
 
+https://au-syd.ml.cloud.ibm.com/ml/v4/deployments/15cf68e8-da86-40cc-95be-5626f522db7c/predictions?version=2021-05-01
 
 🔍 Model Experience
 
